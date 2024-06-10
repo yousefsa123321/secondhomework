@@ -1,0 +1,1 @@
+Writing a program to count the number of capital letters in a file is an important coding question that you can get in any coding interview. You can get questions based on this logic in several ways. You will be given a text file, and you will be asked to read the file without using a Python library and print the number of capital or lowercase letters in the
